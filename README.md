@@ -1,26 +1,44 @@
-# Hello there :wave:
+# Hello There!! :wave:
 
 ```text
 
-             .'''cc                                  
-          :'oo:;                       :::::::::::::N_
-    ss  :;s                            ^:::M^^^^^^::::M
-     ''::':                             :::M       ::::M                                   :::i
-   ;:sSs                                :::M      .:::M                                     ':M
-  ' ' ''                                :::::::::::::W                                      '^
-  cS''Ss                                :::M^^^T:::L^      ::::M      ::::A  ::::M   :::A
- aoooooooa          aoooooooozqy        :::M    T:::L        ::.L     :::W   ^:::M   :::M
- H$OO$O$$H      4OOOOOW                 :::M     T::::L__    '::ML   :::W     :::M   :::M
- HO$$$$OOH  AOOOOOOW                    :::M      T::::::A     ::.L :::W      ^:::::::::.A
- VOO$$OOO$OOOOOW                        ^^^^       ^^^^^^^^     ^:::::W        ^^^^^^^^^^^
-  VHHHHHHHHHV                                                    :::W^
-                                                               :::W^
-                                                             :::W^
+             .c""''``                                
+          :'oh;`
+      , :;s                            ::::::::::::::n,
+     '"::':                            "::::M^^^^^^\:::M
+  ,;:sSs,                               ::::M       ::::M                                   :::m
+ `""ssi"'`                              ::::M      ,;:;M                                     ':V
+  ,ooOOO"                        ,'     :::::..,,;::;M"                                      '^    ......_
+ ;:iilllIA           ,;+onhhnzqy''      ::::M^^^T:::L       ::::M      ::::A  ::::M   :::A        ::A^^\::A
+ b:ilddSSH       ,;oh*""`      `        ::::M    T:::L        ::.L     :::W   `:::M   :::M        ':..._`^^
+ b;:iillSH,, ,;:hnO*'                   ::::M     T::::L      `::ML   :::W     :::M   :::M         ^`"::::\
+ t:iillSSHnihhOW*                       ::::M      T::::::A     ::.L :::W      `::::..;::.A      ::.....,::W
+  t:::kkhhMMV*                          "^^^^       `^^^^^^^     `:::::W        `^^^^^^^^^"      `^^^^^^^^^
+    ```""'                                                      ,:::W^
+                                                              ,:::W^
+                                                            ,:::W^
                                                           :::W^^
 
-        # RELAX AND ENJOY THE STORIES #
+
+                                     # RELAX AND ENJOY THE STORIES #
 
 ```
+
+## About Me :floppy_disk:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Hi! I'm Ryuji &mdash; a programmer who grew up with C. The third generation of the coding family. I lived through my teenage years with BCC Developer and HTML code edited with Notepad in Windows.  
+&nbsp;&nbsp;&nbsp;&nbsp;From Intel 8085 Assembly to Python, I explore both the *Past* and the *Future* of computing.
+
+## Current Focus :wrench:
+
+- Building reusable AI models with clear logic and structure
+- Exploring the connection between “vibe coding” and traditional “legacy code”
+- Creating some personal tools
+
+## My Philosophy :mage_man:
+
+- Coding is not just work; it is a creation and an art.
+- I code like bleath, debug like walk.
 
 <!--
 **Ryuji-Hazama/Ryuji-Hazama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
