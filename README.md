@@ -27,6 +27,36 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Hi! I'm Ryuji &mdash; a programmer who grew up with C. The third generation of the coding family. I lived through my teenage years with BCC Developer and HTML code edited with Notepad in Windows.  
 &nbsp;&nbsp;&nbsp;&nbsp;From Intel 8085 Assembly to Python, I explore both the *Past* and the *Future* of computing.
 
+```mermaid
+gantt
+title My Language History -08/2025
+dateFormat YYYY-MM
+axisFormat %Y
+tickInterval 1year
+
+section Computers
+   Windows 95:w95,1995-01,1998-06
+   Windows 98:w98,after w95,2001-08
+   Windows XP:wXp,after w98,2010-08
+   Windows ME:done,wMe,2005-01,2025-08
+   Windows 7:w7,after wXp,2017-12
+   Windows 10:w10,after w7,2022-01
+   Windows 11:active,w11,after w10,2025-08
+   Ubuntu:active,Ubu,2025-03,2025-08
+
+section Computer Languages
+   C     :2005-01,2025-08
+   JavaScript:done,2007-01,2025-08
+   HTML  :done,2007-01,2025-08
+   CSS   :done,2010-01,2025-08
+   VBA   :active,done,2022-01,2025-08
+   C#    :active,crit,2023-09,2025-08
+   SQL   :active,2023-11,2025-08
+   Assembly:2024-09,2025-08
+   Python:active,crit,2025-03,2025-08
+
+```
+
 ## Current Focus :wrench:
 
 - Building reusable AI models with clear logic and structure
