@@ -41,19 +41,19 @@ section Computers
    Windows ME:done,wMe,2005-01,2025-08
    Windows 7:w7,after wXp,2017-12
    Windows 10:w10,after w7,2022-01
-   Windows 11:active,w11,after w10,2025-08
-   Ubuntu:active,Ubu,2025-03,2025-08
+   Windows 11:active,w11,after w10,2025-12
+   Ubuntu:active,Ubu,2025-03,2025-12
 
 section Computer Languages
-   C     :2005-01,2025-08
-   JavaScript:done,2007-01,2025-08
-   HTML  :done,2007-01,2025-08
-   CSS   :done,2010-01,2025-08
-   VBA   :active,done,2022-01,2025-08
-   C#    :active,crit,2023-09,2025-08
-   SQL   :active,2023-11,2025-08
-   Assembly:2024-09,2025-08
-   Python:active,crit,2025-03,2025-08
+   C     :2005-01,2025-12
+   JavaScript:2007-01,2025-12
+   HTML  :2007-01,2025-12
+   CSS   :2010-01,2025-12
+   VBA   :done,2022-01,2025-12
+   C#    :active,crit,2023-09,2025-12
+   SQL   :active,2023-11,2025-12
+   Assembly:2024-09,2025-12
+   Python:active,crit,2025-03,2025-12
 
 ```
 
